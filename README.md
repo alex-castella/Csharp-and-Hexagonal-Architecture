@@ -1,1 +1,1 @@
-# MyApp
+Curso para aprender .NET y clean architecture.
