@@ -8,7 +8,7 @@ namespace Domain
     public class PersonEntity
     {
         public Guid Id { get; private set; }
-        public string code { get; private set; } = string.Empty;
+        public string Code { get; private set; } = string.Empty;
         public string FirstName { get; private set; } = string.Empty;
         public string LastName { get; private set; } = string.Empty;
         public string Email { get; private set; } = string.Empty;
